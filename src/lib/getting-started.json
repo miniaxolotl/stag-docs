@@ -1,0 +1,7 @@
+{
+	"ddl": "<link rel='stylesheet' type='text/css' href='stag.min.css'></link>",
+	"npm": "$ npm install stagcss",
+	"yarn": "$ yarn add stagcss",
+	"cdn": "<link rel='stylesheet' type='text/css' href='https://unpkg.com/stagcss'></link>",
+	"fonts": "<link href='https://fonts.googleapis.com/css?family=Cantarell' rel='stylesheet'></link>"
+}

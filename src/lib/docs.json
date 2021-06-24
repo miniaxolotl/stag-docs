@@ -1,0 +1,12 @@
+{
+	"typograhpy": "Through CSS3 we get introduced to the <code>rem</code> unit. The <code>rem</code> unit allows us to specify the <code>font-size</code> relative to the root element, the <code>html</code> element. The default <code>rem</code> is set to 10px, stag sets this value to 16px.",
+	"typograhpyMore": "<div><p>Regular text in a paragraph...</p></div><div><b>Bold</b>, <strong>Strong</strong></div><div><i>Italic</i>, <em>Emphasised</em></div><div><a href='javascript:void(0)'>Anchor</a></div>",
+	"blockquote": "Use blockquotes to cite sections from other sources.",
+	"button": "Button are styled from their default look. Stag provides 3 styles; There default, outlined and clear. Stag also provides and additional disabled state",
+	"code": "You can use <code>code</code> elements to represet snippets of code. There are inline and block level stylings. When using a block level code block wrap it in a <code>pre</code> element.",
+	"divider": "Stag provides styles for <code>hr</code> as a way to section of content. There is a default and long style.",
+	"form": "All basic form elements are styled for clarity on both desktop and mobile platforms.",
+	"grid": "Stag provides a 4 column grid system. It comes with intuitive class names and an automatic column view on mobile devices",
+	"list": "Stag provides styles for all 3 basic list types; unordered list <code>ul</code>, ordered list <code>ol</code>, and description list <code>dl</code>",
+	"table": "Tables are used to display collections of data in a two dimentional format."
+}

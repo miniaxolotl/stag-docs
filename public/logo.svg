@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="788" height="415" viewBox="0 0 788 415">
+  <defs>
+    <clipPath id="clip-logo">
+      <rect width="788" height="415"/>
+    </clipPath>
+  </defs>
+  <g id="logo" clip-path="url(#clip-logo)">
+    <g id="banner" transform="translate(-297.783 -66.555)">
+      <g id="head" transform="translate(319.078 76.399)">
+        <g id="left" transform="translate(0)">
+          <path id="face" d="M829.165,720.47l-85.205-60.905V569.327L695.337,532.1l-.013-.015V463.68L640.375,418.5H566.44l73.935,63.739H769.046l-73.6-62.872,88.867-94.2L695.324,418.5,585.167,325.159h0L769.046,482.235l36.344,33.6-21.078,122.7" transform="translate(-456.459 -325.159)" fill="#e4c550" stroke="#3a3939" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"/>
+        </g>
+        <g id="right" transform="translate(372.705)">
+          <path id="face-2" data-name="face" d="M456.459,720.47l85.2-60.905V569.327L590.287,532.1l.013-.015V463.68L645.249,418.5h73.935l-73.935,63.739H516.578l73.6-62.872-88.867-94.2L590.3,418.5l110.157-93.338h0L516.578,482.235l-36.345,33.6,21.078,122.7" transform="translate(-456.459 -325.159)" fill="#e4c550" stroke="#3a3939" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
