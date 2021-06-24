@@ -8,5 +8,5 @@
 	"form": "All basic form elements are styled for clarity on both desktop and mobile platforms.",
 	"grid": "Stag provides a 4 column grid system. It comes with intuitive class names and an automatic column view on mobile devices",
 	"list": "Stag provides styles for all 3 basic list types; unordered list <code>ul</code>, ordered list <code>ol</code>, and description list <code>dl</code>",
-	"table": "Tables are used to display collections of data in a two dimentional format."
+	"table": "Tables are used to display collections of data in a two dimentional format. Stag makes tables responsive by default for presnce of mind"
 }
