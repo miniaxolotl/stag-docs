@@ -9,6 +9,7 @@ import Form from "./Docs/Form";
 import Grid from "./Docs/Grid";
 import List from "./Docs/List";
 import Table from "./Docs/Table";
+import Util from "./Docs/Util";
 
 interface DocsProps {
 	className?: string;
@@ -28,6 +29,7 @@ const Docs = ({ className }: DocsProps) => {
 			<Grid />
 			<List />
 			<Table />
+			<Util />
 		</div>
 	)
 };
