@@ -17,6 +17,36 @@ const GettingStarted = ({ className }: GettingStartedProps) => {
 
 	return (
 		<div id='getting-started'>
+			<div className="" style={{ textAlign: 'center' }}>
+				<div className="row">
+					<div className="column">
+						<strong>
+							Modern
+						</strong>
+					</div>
+					<div className="column">
+						<strong>
+							Minimal
+						</strong>
+					</div>
+					<div className="column">
+						<strong>
+							Lightweight
+						</strong>
+					</div>
+				</div>
+				<div className="row">
+					<div className="column">
+						Utilizes modern CSS3 practices. Multi browser compatible. Flexbox-based. Mobile friendly
+					</div>
+					<div className="column">
+						Clean and minimal design. Increased focus and visiblity.
+					</div>
+					<div className="column">
+						{`>`}3kb gzipped and minified. No javascript. Quick loadtimes. Low bandwith.
+					</div>
+				</div>
+			</div>
 			<h1> <strong> Getting Started </strong> </h1>
 			<p>
 				There are a few ways to get Stag into your project. Here are the most convienient methods, that may be suitable for your needs.
