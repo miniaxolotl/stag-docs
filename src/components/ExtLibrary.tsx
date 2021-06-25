@@ -12,7 +12,7 @@ const ExtLibrary = () => {
 	const fonts = hljs.highlight(content.fonts, { language: 'html'}).value;
 
 	return (
-		<div id='getting-started'>
+		<div id='docs-ext'>
 			<h1> <strong> Extention Library </strong> </h1>
 			<p>
 				To keep the main payload small Stag also provides an extention library. The extention library contains a collection of classes that would not typically be used on every site.
