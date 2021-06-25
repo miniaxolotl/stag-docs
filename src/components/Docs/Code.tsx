@@ -10,7 +10,7 @@ const Code = () => {
 
 	return (
 		<section>
-			<h3> Blockquote </h3>
+			<h3> Code </h3>
 			<div dangerouslySetInnerHTML={{ __html: content.code }} />
 			<pre>
 				<code>

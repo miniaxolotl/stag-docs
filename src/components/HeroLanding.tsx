@@ -1,6 +1,6 @@
 import Image from 'next/image'
 
-import logo from '../../public/logo.svg'
+import logo from '../../public/logo-1.svg'
 import style from './HeroLanding.module.scss'
 
 interface HeroLandingProps {

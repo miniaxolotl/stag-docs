@@ -27,32 +27,20 @@ const GettingStarted = ({ className }: GettingStartedProps) => {
 					<button> download </button>
 				</a>
 			</Link>
-			<p>
-				You can download the file directly and link it from a static location.
-			</p>
 			<pre>
 				<code dangerouslySetInnerHTML={{__html: ddl}} />
 			</pre>
+			<h3> CDN </h3>
+			<pre>
+				<code dangerouslySetInnerHTML={{__html: cdn}} />
+			</pre>
 			<h3> NPM </h3>
-			<p>
-				There are a few ways to get Stag into your project. Here are the most convienient methods.
-			</p>
 			<pre>
 				<code dangerouslySetInnerHTML={{__html: content.npm}} />
 			</pre>
 			<h3> Yarn </h3>
-			<p>
-				There are a few ways to get Stag into your project. Here are the most convienient methods.
-			</p>
 			<pre>
 				<code dangerouslySetInnerHTML={{__html: content.yarn}} />
-			</pre>
-			<h3> CDN </h3>
-			<p>
-				There are a few ways to get Stag into your project. Here are the most convienient methods.
-			</p>
-			<pre>
-				<code dangerouslySetInnerHTML={{__html: cdn}} />
 			</pre>
 			<h3> Fonts (Optional) </h3>
 			<p>
