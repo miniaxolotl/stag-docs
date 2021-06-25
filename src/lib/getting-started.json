@@ -1,7 +1,9 @@
 {
-	"ddl": "<link rel='stylesheet' type='text/css' href='stag.min.css'></link>",
+	"ddl": "<link rel='stylesheet' type='text/css' href='stag.min.css' />",
+	"ddlExt": "<link rel='stylesheet' type='text/css' href='stag-ext.min.css' />",
 	"npm": "$ npm install stagcss",
 	"yarn": "$ yarn add stagcss",
-	"cdn": "<link rel='stylesheet' type='text/css' href='https://unpkg.com/stagcss'></link>",
+	"cdn": "<link rel='stylesheet' type='text/css' href='https://unpkg.com/stagcss' />",
+	"cdnExt": "<link rel='stylesheet' type='text/css' href='https://unpkg.com/stagcss@0.7.6/dist/stag-ext.min.css' />",
 	"fonts": "<link href='https://fonts.googleapis.com/css?family=Cantarell' rel='stylesheet'></link>"
 }
